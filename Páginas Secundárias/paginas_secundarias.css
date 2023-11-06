@@ -39,7 +39,7 @@ footer {
     text-align: center;
     margin-left: 0px;
     margin-right: 0px;
-    margin-top: 200px;
+    margin-top: 433px;
 }
 /* ================CARDS INDIVIDUAIS================================= */
     /* Card Geral */
@@ -173,13 +173,15 @@ h1.disciplina {
     color: white;
     font-family: sans-serif;
     padding: 0px;
-    margin: -11px;
+    text-align: center;
     padding-top: 9px;
-    padding-left: 42px;}
+    padding-left: 42px;
+    transform: translateX(-33px);}
 
 p.descricao {
     font-family: sans-serif;
     color: white;
+    font-size: 18px;
 
     text-shadow: 1px 1px 10px black;
 
