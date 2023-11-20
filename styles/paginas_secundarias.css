@@ -68,7 +68,8 @@ footer {
         #port {
          background-color: #34ac626b;
         background: linear-gradient(to right, #76bcd6ce, #89dcfab9 );
-        box-shadow: #D5F1FB 2px 1px 17px;}
+        box-shadow: #D5F1FB 2px 1px 17px;
+        user-select: none;}
                           /* Card de Literatura */
         #lit {
         background-color: #34ac626b;

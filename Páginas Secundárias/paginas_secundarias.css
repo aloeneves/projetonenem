@@ -10,7 +10,8 @@ body {
 }
 
 header {
-    border: 2px solid black;
+    border: 2px none black;
+    border-bottom: 1px solid black;
     text-align: center;
     padding: 40px;
     margin-bottom: 0px;
@@ -54,6 +55,8 @@ footer {
 
         border: none;
         border-radius: 25px;
+
+        user-select: none;
         
     }
     div.card:hover {
