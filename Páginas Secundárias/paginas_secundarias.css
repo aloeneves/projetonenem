@@ -50,8 +50,12 @@ footer {
         position: relative;
         margin: 20px auto;
 
-        max-height: 200px;
-        max-width: 350px;
+        max-width: 100px;
+        min-width: 325px;
+
+        max-height: 100px;
+        min-height: 175px;
+
 
         border: none;
         border-radius: 25px;
